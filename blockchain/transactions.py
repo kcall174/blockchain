@@ -42,7 +42,7 @@ mempool = [transaction1, transaction2, transaction3, transaction4, transaction5,
 my_transaction = {
   'amount': '25000',
   'sender': 'Universe',
-  'receiver': 'Kenneth Calaghan Jr'}
+  'receiver': 'kcall174'}
 
 #adding it to the list mempool
 mempool.append(my_transaction)
