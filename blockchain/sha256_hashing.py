@@ -1,5 +1,3 @@
-#!python3 
-
 # import sha256
 from hashlib import sha256
 
